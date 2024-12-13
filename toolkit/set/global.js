@@ -97,7 +97,7 @@ global["Data"] = {
     voices: [
       "prabowo",
       "yanzgpt",
-      "bella",
+      "novita",
       "megawati",
       "echilling",
       "adam",
