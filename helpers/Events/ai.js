@@ -358,7 +358,7 @@ export default async function on({ Exp, ev, store, cht, ai, is }) {
 	})
 	
     ev.on({ 
-        cmd: ['bell', 'autoai', 'aichat', 'ai_interactive'],
+        cmd: ['Novita', 'autoai', 'aichat', 'ai_interactive'],
         tag: "ai",
         listmenu: ["autoai"]
     }, async () => {
